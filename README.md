@@ -1,3 +1,3 @@
 # Portfolio
-  <a href = "file:///E:/simple%20websites/portfolio/index.html">page</a>
-file:///E:/simple%20websites/portfolio/index.html
+  <a href = "http://htmlpreview.github.io/?https://github.com/Kani18/Portfolio-/blob/main/portfolio/index.html">page</a>
+
