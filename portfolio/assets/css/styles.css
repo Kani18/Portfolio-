@@ -26,6 +26,11 @@
   --z-fixed: 100;
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
 @media screen and (min-width: 968px) {
   :root {
     --big-font-size: 3.5rem;
