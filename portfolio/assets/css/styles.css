@@ -26,6 +26,79 @@
   --z-fixed: 100;
 }
 
+
+
+
+
+
+/* Default styles for desktop screens */
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 80px;
+}
+
+.menu {
+  float: left;
+  width: 200px;
+}
+
+.content {
+  float: right;
+  width: 760px;
+}
+
+/* Media query for tablet screens */
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+  
+  .menu {
+    width: 100%;
+    float: none;
+  }
+  
+  .content {
+    width: 100%;
+    float: none;
+  }
+}
+
+/* Media query for mobile screens */
+
+@media only screen and (max-width: 480px) {
+  .header {
+    height: 60px;
+  }
+  
+  .menu {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+  }
+  
+  .content {
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @viewport {
   width: device-width ;
   zoom: 1.0 ;
