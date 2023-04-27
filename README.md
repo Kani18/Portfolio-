@@ -1,4 +1,4 @@
 # Portfolio
- <a href = "https://kanishka-it-portfolio.netlify.app/">Demo Review</a>
+ <a href = "https://portfolio-kanishkad.netlify.app/">Demo Review</a>
 
 
